@@ -19,7 +19,7 @@ Random-Number-Generator-game
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  Muss          |Funktional| Als ein Benutzer soll eine Zahl generiert werden, damit ich sie eraten kann|
+| 1    |  Muss           | Funktional| Als ein Benutzer soll eine Zahl generiert werden, damit ich sie eraten kann|
 | 2    |  Muss           | Funktional| Als ein Benutzer kann ich eine geratene Zahl eingeben |
 | 3    |  Kann           | Funktional| Als ein Benutzer soll mir ein Hinweiss angezeigt werden falls die geratene Zahl zu hoch oder zu niedrig ist |
 | 4    |  Muss           | Funktional| Als ein Benutzer soll mir die Anzahl Rateversuche ausgegeben werden |
@@ -47,8 +47,9 @@ Random-Number-Generator-game
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 02.09.22|Leon Dakaj| US 1, 2     | 3 * 45 Minuten|
+| 1.A  | 02.09.22|Leon Dakaj| Realisieren | 1 * 45 Minuten|
+
 
 Total: 
 
