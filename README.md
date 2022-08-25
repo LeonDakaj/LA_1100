@@ -19,8 +19,13 @@ Random-Number-Generator-game
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |  Muss          |Funktional| Als ein Benutzer soll eine Zahl generiert werden, damit ich sie eraten kann|
+| 2    |  Muss           | Funktional| Als ein Benutzer kann ich eine geratene Zahl eingeben |
+| 3    |  Kann           | Funktional| Als ein Benutzer soll mir ein Hinweiss angezeigt werden falls die geratene Zahl zu hoch oder zu niedrig ist |
+| 4    |  Muss           | Funktional| Als ein Benutzer soll mir die Anzahl Rateversuche ausgegeben werden |
+| 5    |  Muss           | Funktional| Als ein Benutzer soll mir angezeigt werden, das wenn ich text anstatt einer Zahl eingebe, das eine Fehlangabe steht  |
+| 6    |  Muss           | Funktional| Als Benutzer soll mir Angezeigt werden, wenn mir ein Hinweiss angezeigt wird, soll dies (rot) angezeigt werden |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
