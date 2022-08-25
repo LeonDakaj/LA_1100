@@ -13,7 +13,7 @@ Leon Dakaj
 
 ### 1.1 Ihr Projekt
 
-Random Number Generator
+Random-Number-Generator-game
 
 ### 1.2 User Stories
 
@@ -35,7 +35,8 @@ Random Number Generator
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+<img width="419" alt="image" src="https://user-images.githubusercontent.com/89085609/186597761-2260bdce-cfe4-4eaa-b4a6-bcc628ef41c7.png">
+
 
 ## 2 Planen
 
