@@ -47,9 +47,12 @@ Random-Number-Generator-game
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 02.09.22|Leon Dakaj| US 1, 2     | 3 * 45 Minuten|
-| 1.A  | 02.09.22|Leon Dakaj| Realisieren | 1 * 45 Minuten|
-
+| 1.A  | 02.09.22|Leon Dakaj| Zahlen generien können  |2 * 45 Minuten|
+| 2.A  | 02.09.22|Leon Dakaj| Zahlen eraten können  |2 * 45 Minuten|
+| 3.A  | 09.09.22|Leon Dakaj| Hinweiss soll bei einer falsch eratenen Zahl angezeigt werden | 2 * 45 Minuten|
+| 4.A  | 09.09.22|Leon Dakaj| Anzahl Rateversuche soll angezeigt werden |2 * 45 Minuten|
+| 5.A  | 16.09.22|Leon Dakaj| Fehlangabe soll angezeigt werden  |2 * 45 Minuten|
+| 5.A  | 16.09.22|Leon Dakaj| Hinweiss soll rot angezeigt werden  |2 * 45 Minuten|
 
 Total: 
 
