@@ -82,6 +82,7 @@ Total:
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |  01.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    45 Minuten               |
 | 2.A  |  01.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    45 Minuten               |
+| 1.B  |  01.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    2 * 45 Minuten               |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
