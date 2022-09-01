@@ -62,13 +62,13 @@ Random-Number-Generator-game
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 02.09.22|Leon Dakaj| Zahlen generien können  |2 * 45 Minuten|
-| 2.A  | 02.09.22|Leon Dakaj| Zahlen eraten können  |2 * 45 Minuten|
-| 3.A  | 09.09.22|Leon Dakaj| Hinweiss soll bei einer falsch eratenen Zahl angezeigt werden | 2 * 45 Minuten|
-| 4.A  | 09.09.22|Leon Dakaj| Anzahl Rateversuche soll angezeigt werden |3 * 45 Minuten|
-| 5.A  | 16.09.22|Leon Dakaj| Fehlangabe soll angezeigt werden  |3 * 45 Minuten|
-| 6.A  | 16.09.22|Leon Dakaj| Hinweiss soll rot angezeigt werden  |2 * 45 Minuten|
-| 7.A  | 16.09.22|Leon Dakaj| Verschönern  |2 * 45 Minuten|
+| 1.A  | 01.09.22|Leon Dakaj| Zahlen generien können  |2 * 45 Minuten|
+| 2.A  | 01.09.22|Leon Dakaj| Zahlen eraten können  |2 * 45 Minuten|
+| 1.B  | 08.09.22|Leon Dakaj| Hinweiss soll bei einer falsch eratenen Zahl angezeigt werden | 2 * 45 Minuten|
+| 2.B  | 08.09.22|Leon Dakaj| Anzahl Rateversuche soll angezeigt werden |3 * 45 Minuten|
+| 1.C  | 15.09.22|Leon Dakaj| Fehlangabe soll angezeigt werden  |3 * 45 Minuten|
+| 2.C  | 15.09.22|Leon Dakaj| Hinweiss soll rot angezeigt werden  |2 * 45 Minuten|
+| 3.C  | 15.09.22|Leon Dakaj| Verschönern  |2 * 45 Minuten|
 
 Total: 
 
@@ -80,8 +80,9 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |  01.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    45 Minuten               |
+| 2.A  |  01.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    45 Minuten               |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
