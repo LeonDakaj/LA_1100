@@ -6,7 +6,7 @@ Leon Dakaj
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 01.09.2022      | 0.0.1   | Zahl wurde generiert, Benutzer kann Zahl eraten beim eingeben, Hinweiss wird bei falscher eingegebener Zahl angezeigt, Anzahl Rateversuche werden angegeben |
-|  08.09.2022     | 0.0.2     | Bei Nicht eingegebener Zahl steht wird eine Fehlangabe angezeigt, Hinweiss wird bei falscher eingegebener Zahl angezeigt (in Rot),   |
+|  08.09.2022     | 0.0.2     | Bei Nicht eingegebener Zahl steht wird eine Fehlangabe angezeigt, Hinweiss wird bei falscher eingegebener Zahl angezeigt (in Rot), Nachdem eraten der richtigen Zahl, wird gefragt, ob man wieder spielen möchte  |
 
 ## 1 Informieren
 
@@ -26,7 +26,9 @@ Random-Number-Generator-game
 | 4    |  Muss           | Funktional| Als ein Benutzer soll mir die Anzahl Rateversuche ausgegeben werden |
 | 5    |  Muss           | Funktional| Als ein Benutzer soll mir angezeigt werden, das wenn ich text anstatt einer Zahl eingebe, das eine Fehlangabe steht  |
 | 6    |  Muss           | Qualität| Als ein Benutzer soll mir Angezeigt werden, wenn mir ein Hinweiss angezeigt wird, soll dies (rot) angezeigt werden |
-| 7    |  Muss           | Randbedingung| Als ein Benutzer soll der Intro schön dargestellt werden  |
+| 7    |  Kann           | Randbedingung| Als ein Benutzer soll der Intro schön dargestellt werden  |
+| 8    |  Kann           | Randbedingung| Als ein Benutzer soll ich die Auswahl haben, das Spiel wieder zu spielen  |
+
 
 
 ### 1.3 Testfälle
@@ -42,6 +44,7 @@ Random-Number-Generator-game
 | 5.1  |  Programm startet            |   string(Text)      |    Ist keine Zahl zwischen 1-100    |
 | 6.1  |  Zahl wird generiert             |   30   |   Zahl ist zu gross! Versuch kleiner! / Zahl ist zu klein! Versuch grösser! (Alles in Rot) |
 | 7.1  |  Programm startet            |   ---      |   Guess-MyNumber-Game |
+| 8.1  |  Zahl wird eraten            |   ---      |   Willst du wieder Spielen? (True/False): |
 
 
 ### 1.4 Diagramme
@@ -59,8 +62,9 @@ Random-Number-Generator-game
 | 2.B  | 08.09.22|Leon Dakaj| Anzahl Rateversuche soll angezeigt werden |3 * 45 Minuten|
 | 1.C  | 15.09.22|Leon Dakaj| Fehlangabe soll angezeigt werden  |3 * 45 Minuten|
 | 2.C  | 15.09.22|Leon Dakaj| Hinweiss soll rot angezeigt werden  |2 * 45 Minuten|
-| 3.C  | 15.09.22|Leon Dakaj| Wird gefragt ob man wieder spielen möchte |2 * 45 Minuten|
-| 4.C  | 15.09.22|Leon Dakaj| Verschönern  |2 * 45 Minuten|
+| 3.C  | 15.09.22|Leon Dakaj| Eingabe einer Zahl wird Blau dargestellt  |2 * 45 Minuten|
+| 4.C  | 15.09.22|Leon Dakaj| Wird gefragt ob man wieder spielen möchte |2 * 45 Minuten|
+| 5.C  | 15.09.22|Leon Dakaj| Verschönern  |2 * 45 Minuten|
 
 Total: 
 
@@ -77,8 +81,9 @@ Total:
 | 1.B  |  01.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    2 * 45 Minuten               |
 | 2.B  |  08.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    2 * 45 Minuten               |
 | 1.C  |  08.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    45 Minuten               |
-| 2.C  |  08.09.22     |   Leon Dakaj        |    45Minuten            |    45 Minuten               |
-| 3.C  |  08.09.22     |   Leon Dakaj        |    2 * 45Minuten            |    2 * 45 Minuten               |
+| 2.C  |  08.09.22     |   Leon Dakaj        |    45 Minuten            |    45 Minuten               |
+| 3.C  |  08.09.22     |   Leon Dakaj        |    30 Minuten            |    30 Minuten               |
+| 4.C  |  08.09.22     |   Leon Dakaj        |    2 * 45Minuten            |    2 * 45 Minuten               |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
