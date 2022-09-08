@@ -5,9 +5,8 @@ Leon Dakaj
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 01.09.2022      | 0.0.1   | Zahl wurde generiert, Benutzer kann Zahl eraten beim eingeben, Hinweiss wird bei falscher eingegebener Zahl angezeigt, Anzahl Rateversuche werden angegeben |
+|  08.09.2022     | 0.0.2     | Bei Nicht eingegebener Zahl steht wird eine Fehlangabe angezeigt, Hinweiss wird bei falscher eingegebener Zahl angezeigt (in Rot),   |
 
 ## 1 Informieren
 
@@ -42,15 +41,7 @@ Random-Number-Generator-game
 | 4.1  |  Zahl wird eraten               | 50(x)     |                   Anzahl versuche(y)    |
 | 5.1  |  Programm startet            |   string(Text)      |    Ist keine Zahl zwischen 1-100    |
 | 6.1  |  Zahl wird generiert             |   30   |   Zahl ist zu gross! Versuch kleiner! / Zahl ist zu klein! Versuch grösser! (Alles in Rot) |
-| 7.1  |  Programm startet            |   ---      |   Welcome to the Number Geussing Game!|
-
-
-
-
-
-
-
-
+| 7.1  |  Programm startet            |   ---      |   Guess-MyNumber-Game |
 
 
 ### 1.4 Diagramme
@@ -68,7 +59,8 @@ Random-Number-Generator-game
 | 2.B  | 08.09.22|Leon Dakaj| Anzahl Rateversuche soll angezeigt werden |3 * 45 Minuten|
 | 1.C  | 15.09.22|Leon Dakaj| Fehlangabe soll angezeigt werden  |3 * 45 Minuten|
 | 2.C  | 15.09.22|Leon Dakaj| Hinweiss soll rot angezeigt werden  |2 * 45 Minuten|
-| 3.C  | 15.09.22|Leon Dakaj| Verschönern  |2 * 45 Minuten|
+| 3.C  | 15.09.22|Leon Dakaj| Wird gefragt ob man wieder spielen möchte |2 * 45 Minuten|
+| 4.C  | 15.09.22|Leon Dakaj| Verschönern  |2 * 45 Minuten|
 
 Total: 
 
@@ -83,6 +75,10 @@ Total:
 | 1.A  |  01.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    45 Minuten               |
 | 2.A  |  01.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    45 Minuten               |
 | 1.B  |  01.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    2 * 45 Minuten               |
+| 2.B  |  08.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    2 * 45 Minuten               |
+| 1.C  |  08.09.22     |   Leon Dakaj        |   2 * 45Minuten            |    45 Minuten               |
+| 2.C  |  08.09.22     |   Leon Dakaj        |    45Minuten            |    45 Minuten               |
+| 3.C  |  08.09.22     |   Leon Dakaj        |    2 * 45Minuten            |    2 * 45 Minuten               |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
