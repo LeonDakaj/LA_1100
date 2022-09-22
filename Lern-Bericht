@@ -1,15 +1,19 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Leon
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In diesem Projekt habe ich mithilfe von C# einen Number-Guesser-Generator programmiert.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+In diesem Projekt habe ich gelernt was (try catch) ist, wie man damit arbeitet und habe folgende Ziele gesetzt:
+
+- Der Laie soll verstehen was ein (try catch) überhaupt ist.
+- Der Laie soll verstehen  wie man mit einem (try catch) arbeitet.
 
 ## Beschreibung
+
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
@@ -22,7 +26,7 @@
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
 
-# Reflektion zum Arbeitsprozess
+# Reflextion zum Arbeitsprozess
 
 👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
 
