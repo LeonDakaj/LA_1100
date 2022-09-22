@@ -7,10 +7,7 @@ In diesem Projekt habe ich mithilfe von C# einen Number-Guesser-Generator progra
 
 ## Was habe ich gelernt?
 
-In diesem Projekt habe ich gelernt was (try catch) ist, wie man damit arbeitet und habe folgende Ziele gesetzt:
-
-- Der Laie soll verstehen was ein (try catch) überhaupt ist.
-- Der Laie soll verstehen  wie man mit einem (try catch) arbeitet.
+In diesem Projekt habe ich gelernt mit (try catch) zu arbeiten und will einem Laien zeigen, was ein try catch ist und wie man damit Arbeitet
 
 ## Beschreibung
 
