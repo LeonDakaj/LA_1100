@@ -19,6 +19,7 @@ Der try-Block enthält den geschützten Code, der die Ausnahme verursachen kann.
 
 ![TryCatch](https://user-images.githubusercontent.com/89085609/191699427-346a5f05-1e88-4d8f-a7fa-3e40e69241af.png)
 
+[link](https://www.youtube.com/watch?v=5gA1ZA_dSnk) 
 
 ## Verifikation
 
@@ -37,4 +38,4 @@ Ich war beim Einstieg meines Projekts sehr motiviert und wollte umbedingt das ge
 
 Ich hatte am Anfang beim programmieren immernoch Probleme mit den While-loops, was meine Arbeit erschwerte und verlängsemerte. Was schwer für mich daran war, war das Bild im Kopf zu behalten wie etwas immer laufen soll bis es den punkt erreicht wo es aufhören soll. Ich habe meine Klassenkameraden auch nachgefragt und konnte es dank ihnen besser verstehen. 
 
-### VBV: Auf das nächste mal soll ich mich mehr über sachen informieren, die mir vielleicht die Arbeit erschweren könnte, um effizienter Arbeiten zu können.
+### VBV: Auf das nächste mal soll ich mich mehr über sachen informieren, die mir vielleicht die Arbeit erschweren könnte, um diese zu vermeiden und effizienter zu Arbeiten.
