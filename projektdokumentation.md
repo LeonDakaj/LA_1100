@@ -7,7 +7,7 @@ Leon Dakaj
 | ----- | ------- | ------------------------------------------------------------ |
 | 01.09.2022      | 0.0.1   | Zahl wurde generiert, Benutzer kann Zahl eraten beim eingeben, Hinweiss wird bei falscher eingegebener Zahl angezeigt, Anzahl Rateversuche werden angegeben |
 |  08.09.2022     | 0.0.2     | Bei Nicht eingegebener Zahl steht wird eine Fehlangabe angezeigt, Hinweiss wird bei falscher eingegebener Zahl angezeigt (in Rot), Nachdem eraten der richtigen Zahl, wird gefragt, ob man wieder spielen möchte  |
-|  08.09.2022     | 1.0.0     | Testprotokolle gemacht und noch durchgeführt |
+|  22.09.2022     | 1.0.0     | Testprotokolle gemacht und noch durchgeführt |
 
 ## 1 Informieren
 
