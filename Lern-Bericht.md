@@ -1,5 +1,5 @@
 # Lern-Bericht
-Leon
+Leon Dakaj
 
 ## Einleitung
 
