@@ -3,21 +3,20 @@ Leon
 
 ## Einleitung
 
-In diesem Projekt habe ich mithilfe von C# einen Number-Guesser-Generator programmiert.
+In diesem Projekt habe ich mithilfe von C# meinen ersten Number-Guesser-Generator programmiert.
 
 ## Was habe ich gelernt?
 
-In diesem Projekt habe ich gelernt mit (try catch) zu arbeiten und will einem Laien zeigen, was ein try catch ist und wie man damit Arbeitet
+In diesem Projekt habe ich gelernt mit (Try-catch) zu arbeiten und will einem Laien aufzeigen, was ein (Try-catch) ist und wozu sie dienen.
 
-## Beschreibung
+## Was ist ein Try-catch und wann werden sie gebraucht?
 
+Ein Try-catch besteht aus einem try-Block, gefolgt von einem catch-Block. Sie werden immer bei einer Ausnahme verwendet.
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Wenn eine Ausnahme ausgelöst wird, sucht die Common Language Runtime (CLR) nach der catch-Anweisung, die diese Ausnahme behandelt. Wenn die aktuell ausgeführte Methode keinen solchen catch-Block enthält, sucht die CLR in der Methode, die die aktuelle Methode aufgerufen hat. Wird kein Catch-Block gefunden, zeigt die CLR dem Benutzer eine Meldung über eine unbehandelte Ausnahme an und hält die Ausführung des Programms an.
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+Der try-Block enthält den geschützten Code, der die Ausnahme verursachen kann. Der Block wird so lange ausgeführt, bis eine Ausnahme ausgelöst wird oder er erfolgreich abgeschlossen wird. 
+
 
 ## Verifikation
 
