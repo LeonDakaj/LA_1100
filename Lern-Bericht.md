@@ -19,7 +19,7 @@ Der try-Block enthält den geschützten Code, der die Ausnahme verursachen kann.
 
 ![TryCatch](https://user-images.githubusercontent.com/89085609/191699427-346a5f05-1e88-4d8f-a7fa-3e40e69241af.png)
 
-[link](https://www.youtube.com/watch?v=5gA1ZA_dSnk) 
+Video zur [Ausführung von Try-catch](https://www.youtube.com/watch?v=5gA1ZA_dSnk) 
 
 ## Verifikation
 
