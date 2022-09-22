@@ -7,7 +7,7 @@ In diesem Projekt habe ich mithilfe von C# meinen ersten Number-Guesser-Generato
 
 ## Was habe ich gelernt?
 
-In diesem Projekt habe ich gelernt mit (Try-catch) zu arbeiten und will einem Laien aufzeigen, was ein (Try-catch) ist und wozu sie dienen.
+In diesem Projekt habe ich gelernt mit (Try-catch) zu arbeiten und will einem Laien aufzeigen, was ein (Try-catch) ist und wann man sie gebraucht.
 
 ## Was ist ein Try-catch und wann werden sie gebraucht?
 
@@ -29,8 +29,12 @@ Ich habe diesen Lern-Bericht einer meiner Freunde gezeigt und konnte folgendes f
 
 # Reflextion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+### Was lief *gut?*
 
-👎 und etwas, was nicht gut lief.
+Ich war beim Einstieg meines Projekts sehr motiviert und wollte umbedingt das gelernte auch umsetzten können. Ich konnte gut arbeiten, konnte vielen bei Problemen helfen und konnte ohne grosse Ablenkung an meinem Projekt weiterarbeiten.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+### Was lief eher *schlecht?*
+
+Ich hatte am Anfang beim programmieren immernoch Probleme mit den While-loops, was meine Arbeit erschwerte und verlängsemerte. Was schwer für mich daran war, war das Bild im Kopf zu behalten wie etwas immer laufen soll bis es den punkt erreicht wo es aufhören soll. Ich habe meine Klassenkameraden auch nachgefragt und konnte es dank ihnen besser verstehen. 
+
+### VBV: Auf das nächste mal soll ich mich mehr über sachen informieren, die mir vielleicht die Arbeit erschweren könnte, um effizienter Arbeiten zu können.
